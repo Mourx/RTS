@@ -1,0 +1,91 @@
+﻿  stdafx.cpp
+  BuildingObject.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(7): warning C4091: 'extern ': ignored on left of 'GameObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(8): warning C4091: 'extern ': ignored on left of 'UnitObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(9): warning C4091: 'extern ': ignored on left of 'BuildingObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(10): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\buildingobject.cpp(28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\buildingobject.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\buildingobject.cpp(38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameEngine.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(7): warning C4091: 'extern ': ignored on left of 'GameObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(8): warning C4091: 'extern ': ignored on left of 'UnitObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(9): warning C4091: 'extern ': ignored on left of 'BuildingObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(10): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.cpp(34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.cpp(35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.cpp(18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.cpp(50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  MacroValues.cpp
+  Node.cpp
+  Path.cpp
+  RTS.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(7): warning C4091: 'extern ': ignored on left of 'GameObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(8): warning C4091: 'extern ': ignored on left of 'UnitObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(9): warning C4091: 'extern ': ignored on left of 'BuildingObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(10): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\rts.cpp(71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\rts.cpp(125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  UIElement.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\uielement.cpp(9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  UIProducer.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(7): warning C4091: 'extern ': ignored on left of 'GameObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(8): warning C4091: 'extern ': ignored on left of 'UnitObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(9): warning C4091: 'extern ': ignored on left of 'BuildingObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(10): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\uiproducer.cpp(10): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+  UnitConstructors.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(7): warning C4091: 'extern ': ignored on left of 'GameObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(8): warning C4091: 'extern ': ignored on left of 'UnitObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(9): warning C4091: 'extern ': ignored on left of 'BuildingObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(10): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+  UnitObject.cpp
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(7): warning C4091: 'extern ': ignored on left of 'GameEngine' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(8): warning C4091: 'extern ': ignored on left of 'Player' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameobject.h(9): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(7): warning C4091: 'extern ': ignored on left of 'GameObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(8): warning C4091: 'extern ': ignored on left of 'UnitObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(9): warning C4091: 'extern ': ignored on left of 'BuildingObject' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\gameengine.h(10): warning C4091: 'extern ': ignored on left of 'UIElement' when no variable is declared
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(77): warning C4244: '=': conversion from 'sf::Int64' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(93): warning C4244: 'initializing': conversion from 'sf::Int64' to 'double', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(123): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(126): warning C4244: '=': conversion from 'sf::Int64' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(143): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(156): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\unitobject.cpp(244): warning C4715: 'UnitObject::GetNodePath': not all control paths return a value
+c:\users\joel\documents\visual studio 2017\projects\rts\rts\buildingobject.cpp(61): warning C4715: 'BuildingObject::getValue': not all control paths return a value
+  RTS.vcxproj -> C:\Users\Joel\Documents\Visual Studio 2017\Projects\RTS\x64\Debug\RTS.exe
